@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node / JSON cache
+node_modules/
+*.log
+npm-debug.log*
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
