@@ -1,0 +1,30 @@
+{
+  "name": "ios-system-data-cleaner",
+  "version": "1.0.0",
+  "title": "iOS System Data Cleaner (Date Trick Automation)",
+  "description": "A reliable, step-by-step method to permanently clear iOS System Data by forcing the maintenanced process using the Date Trick — fully documented and tested.",
+  "license": "MIT",
+  "author": "Open Community Research",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/ios-system-data-cleaner.git"
+  },
+  "keywords": [
+    "iOS",
+    "system-data",
+    "cache-cleaner",
+    "maintenanced",
+    "storage",
+    "date-trick",
+    "performance",
+    "apple"
+  ],
+  "readme": "README.md",
+  "homepage": "https://github.com/username/ios-system-data-cleaner",
+  "created": "2025-11-04",
+  "status": "stable",
+  "platform": "iOS",
+  "maintainer": "username",
+  "contributors": [],
+  "tags": ["cleanup", "ios-maintenance", "system-storage"]
+}
